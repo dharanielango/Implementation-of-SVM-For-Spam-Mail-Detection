@@ -45,15 +45,15 @@ accuracy
 ```
 
 ## Output:
-#### DATA HEAD:
+### DATA HEAD:
 ![SVM For Spam Mail Detection](1.png)
-#### DATA INFO:
+### DATA INFO:
 ![SVM For Spam Mail Detection](2.png)
-#### DATA ISNULL():
+### DATA ISNULL():
 ![SVM For Spam Mail Detection](3.png)
-#### Y_PRED:
+### Y_PRED:
 ![SVM For Spam Mail Detection](4.png)
-#### ACCURACY:
+### ACCURACY:
 ![SVM For Spam Mail Detection](5.png)
 
 
